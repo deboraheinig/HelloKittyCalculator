@@ -8,4 +8,4 @@ Calculator with a pink Hello Kitty theme.
 
 # Output example 
 
-[Snap from app](Screenshot_20220814_174946.png)
+![Snap from app](Screenshot_20220814_174946.png)
