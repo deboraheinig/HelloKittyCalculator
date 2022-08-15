@@ -1,5 +1,5 @@
 # HelloKittyCalculator
-Calculator with the four basic operations with a pink Hello Kitty theme.
+Calculator with the four basic operations with a pink Hello Kitty theme, built in Kotlin using Android Studio.
 
 # Requirements 
 
