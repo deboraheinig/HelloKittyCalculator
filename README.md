@@ -1,5 +1,5 @@
 # HelloKittyCalculator
-Calculator with a pink Hello Kitty theme.
+Calculator with the four basic operations with a pink Hello Kitty theme.
 
 # Requirements 
 
